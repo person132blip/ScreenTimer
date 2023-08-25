@@ -1,0 +1,22 @@
+{
+    "League of Legend": {
+        "seg": [[1691938800, 1691940600] ,[1692111600, 1692112200]],
+        "state": false,
+        "total": 2400
+    },
+    "Overwatch": {
+        "seg": [],
+        "state": false,
+        "total": 0
+    },
+    "Elden Ring": {
+        "seg": [[1692198000, 1692199800]],
+        "state": false,
+        "total": 1800
+    },
+    "Safari": {
+        "seg": [[1692198000, 1692199800]],
+        "state": false,
+        "total": 1800
+    }
+}
